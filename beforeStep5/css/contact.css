@@ -1,0 +1,432 @@
+/* screen - contact */
+
+.contact {
+  background-color: var(--ecru-white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contact .bar-DhmS6L {
+  background-color: var(--medium-carmine);
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.contact .logo-mzxv2B {
+  background-color: var(--don-juan);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 254px;
+}
+
+.contact .union-logo-1-DhmS6L {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+
+.contact .frame-27-DhmS6L {
+  left: 98px;
+  top: 207px;
+}
+
+.contact .frame-28-DhmS6L {
+  background-color: var(--mountain-mist);
+  height: 200px;
+  left: 106px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 493px;
+  width: 480px;
+}
+
+.contact .image-6-dx21aA {
+  background-color: transparent;
+  height: 200px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 480px;
+}
+
+.contact .frame-27-QYcqwi {
+  left: 106px;
+  top: 800px;
+}
+
+.contact .image-4-80tV1V {
+  background-color: transparent;
+  height: 200px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 480px;
+}
+
+.contact .flex-container-DhmS6L {
+  gap: 15px;
+  height: 249px;
+  left: 657px;
+  top: 172px;
+}
+
+.contact .span0-Qjx2gG {
+}
+
+.contact .span1-GHJeh9 {
+}
+
+.contact .span2-44D29Y {
+}
+
+.contact .span3-Ld0b7C {
+}
+
+.contact .flex-container-QYcqwi {
+  gap: 15px;
+  height: 249px;
+  left: 655px;
+  top: 778px;
+}
+
+.contact .span0-xHGzpf {
+}
+
+.contact .span1-TimXG0 {
+}
+
+.contact .span2-xJocc8 {
+}
+
+.contact .span3-rDeli2 {
+}
+
+.contact .flex-container-tqJyG5 {
+  gap: 10px;
+  height: 234px;
+  left: 657px;
+  top: 474px;
+}
+
+.contact .span0-5B6q5z {
+}
+
+.contact .span1-dqY7T9 {
+}
+
+.contact .span2-HqbM4I {
+}
+
+.contact .span3-Ckxpx6 {
+}
+
+.contact .tabs-DhmS6L {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 77px;
+  height: auto;
+  left: 485px;
+  position: absolute;
+  top: 26px;
+  width: fit-content;
+}
+
+.contact .home-aA1ApD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 70px;
+}
+
+.contact .home-aA1ApD:hover {
+  color: #ff6b00
+}
+
+.contact .service-aA1ApD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.contact .service-aA1ApD:hover {
+  color: #FF6B00
+}
+
+.contact .empolyee-aA1ApD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 116px;
+}
+
+.contact .empolyee-aA1ApD:hover {
+  color: #FF6B00
+}
+
+.contact .contact-us-aA1ApD {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 133px;
+}
+
+.contact .contact-us-aA1ApD:hover {
+  color: #FF6B00
+}
+
+.contact .book-a-field-aA1ApD {
+  background-color: var(--di-serria);
+  border-radius: 88px;
+  height: 44.00000762939453px;
+  min-width: 179.00003051757812px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.contact .title-Kzr2hF {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.contact .title-Kzr2hF:hover {
+}
+
+.contact .image-5-DhmS6L {
+  background-color: transparent;
+  height: 200px;
+  left: 98px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 480px;
+}
+
+.contact .x968277-1-DhmS6L {
+  left: 597px;
+  top: 182px;
+}
+
+.contact .x9305821-1-DhmS6L {
+  left: 597px;
+  top: 243px;
+}
+
+.contact .email-DhmS6L {
+  left: 597px;
+  top: 311px;
+}
+
+.contact .multimedia-01-64-1-DhmS6L {
+  top: 379px;
+}
+
+.contact .x968277-1-QYcqwi {
+  left: 601px;
+  top: 484px;
+}
+
+.contact .x9305821-1-QYcqwi {
+  left: 601px;
+  top: 545px;
+}
+
+.contact .email-QYcqwi {
+  left: 601px;
+  top: 605px;
+}
+
+.contact .multimedia-01-64-1-QYcqwi {
+  top: 669px;
+}
+
+.contact .x968277-1-tqJyG5 {
+  left: 601px;
+  top: 791px;
+}
+
+.contact .x9305821-1-tqJyG5 {
+  left: 601px;
+  top: 852px;
+}
+
+.contact .email-tqJyG5 {
+  left: 601px;
+  top: 920px;
+}
+
+.contact .multimedia-01-64-1-tqJyG5 {
+  top: 980px;
+}
+
+.contact .email {
+  background-color: transparent;
+  height: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.contact .flex-container {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 438px;
+}
+
+.contact .frame-27 {
+  background-color: var(--mountain-mist);
+  height: 200px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  width: 480px;
+}
+
+.contact .multimedia-01-64-1 {
+  background-color: transparent;
+  height: 40px;
+  left: 601px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.contact .text0 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 438px;
+}
+
+.contact .text1 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 438px;
+}
+
+.contact .text2 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 438px;
+}
+
+.contact .text3 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 438px;
+}
+
+.contact .x9305821-1 {
+  background-color: transparent;
+  height: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.contact .x968277-1 {
+  background-color: transparent;
+  height: 33px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}

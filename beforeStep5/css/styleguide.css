@@ -1,0 +1,103 @@
+:root { 
+  --apple: #53c640;
+  --black: #000000;
+  --di-serria: #d5a051;
+  --don-juan: #594f4f;
+  --ecru-white: #f4f3e6;
+  --jordy-blue: #8fbdff;
+  --medium-carmine: #ab3d36;
+  --medium-carmine-2: #ab3e36cc;
+  --mountain-mist: #949494;
+  --pumice: #c8c8c8;
+  --red: #ff0000;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 24px;
+  --font-size-s: 15px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 40px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-jaldi: "Jaldi", Helvetica;
+  --font-family-jost: "Jost", Helvetica;
+  --font-family-jsmath-cmr10-cmr10: "jsMath-cmr10-cmr10", Helvetica;
+  --font-family-jua: "Jua", Helvetica;
+  --font-family-judson: "Judson", Helvetica;
+}
+.jost-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-jost);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jaldi-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-jaldi);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-red-30px {
+  color: var(--red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 700;
+}
+
+.inter-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jua-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-jua);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jua-normal-jordy-blue-40px {
+  color: var(--jordy-blue);
+  font-family: var(--font-family-jua);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.jua-normal-apple-40px {
+  color: var(--apple);
+  font-family: var(--font-family-jua);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+:root {
+}

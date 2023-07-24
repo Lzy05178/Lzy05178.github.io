@@ -1,0 +1,77 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,700italic|Jua:400|Jost:400|Judson:400|Jaldi:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/6469b81c9bd7f2546ecb2b89.6469b81d9bd7f2546ecb2b8c.3TJU0uZ.hcp.png");
+
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.book-a-field {
+  background-color: var(--di-serria);
+  border-radius: 88px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+}
+
+.book-field {
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.frame-6 {
+  background-color: var(--pumice);
+  height: 250px;
+  min-width: 300px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.image {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}

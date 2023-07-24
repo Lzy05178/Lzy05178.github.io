@@ -1,0 +1,640 @@
+/* screen - interact */
+
+.interact {
+  background-color: var(--white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1241px;
+  min-width: 958px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.interact .line-1-1Nh36b {
+  background-color: transparent;
+  height: 1241px;
+  left: 479px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.interact .title-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 144px;
+  width: auto;
+}
+
+.interact .ellipse-1-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 27px;
+}
+
+.interact .place1-1Nh36b {
+  top: 189px;
+}
+
+.interact .ellipse-2-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 197px;
+  width: 27px;
+}
+
+.interact .place1-4A44u9 {
+  top: 189px;
+}
+
+.interact .ellipse-5-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 288px;
+  width: 27px;
+}
+
+.interact .place1-FxuHWO {
+  top: 280px;
+}
+
+.interact .ellipse-6-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 288px;
+  width: 27px;
+}
+
+.interact .place1-LWpHdD {
+  top: 280px;
+}
+
+.interact .ellipse-3-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 27px;
+}
+
+.interact .place1-nb1cqT {
+  top: 235px;
+}
+
+.interact .ellipse-4-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 243px;
+  width: 27px;
+}
+
+.interact .place1-2Mx0gp {
+  top: 235px;
+}
+
+.interact .service-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  width: auto;
+}
+
+.interact .ellipse-13-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 683px;
+  width: 27px;
+}
+
+.interact .course-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 675px;
+  width: auto;
+}
+
+.interact .ellipse-14-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 683px;
+  width: 27px;
+}
+
+.interact .ellipse-15-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 774px;
+  width: 27px;
+}
+
+.interact .competitionfor-club-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 766px;
+  width: auto;
+}
+
+.interact .ellipse-16-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 774px;
+  width: 27px;
+}
+
+.interact .ellipse-17-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 729px;
+  width: 27px;
+}
+
+.interact .drop-in-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 721px;
+  width: auto;
+}
+
+.interact .ellipse-18-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 87px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 729px;
+  width: 27px;
+}
+
+.interact .drop-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 721px;
+  width: auto;
+}
+
+.interact .price-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 117px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 387px;
+  width: auto;
+}
+
+.interact .ellipse-7-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 440px;
+  width: 27px;
+}
+
+.interact .cheap-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 432px;
+  width: auto;
+}
+
+.interact .ellipse-8-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 440px;
+  width: 27px;
+}
+
+.interact .ellipse-9-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 531px;
+  width: 27px;
+}
+
+.interact .expensive-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 523px;
+  width: auto;
+}
+
+.interact .ellipse-10-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 531px;
+  width: 27px;
+}
+
+.interact .ellipse-11-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 486px;
+  width: 27px;
+}
+
+.interact .midium-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 478px;
+  width: auto;
+}
+
+.interact .ellipse-12-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 81px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 486px;
+  width: 27px;
+}
+
+.interact .age-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 134px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 817px;
+  width: auto;
+}
+
+.interact .ellipse-19-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 98px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 870px;
+  width: 27px;
+}
+
+.interact .order-than-18-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 862px;
+  width: auto;
+}
+
+.interact .ellipse-20-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 98px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 870px;
+  width: 27px;
+}
+
+.interact .ellipse-23-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 98px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 916px;
+  width: 27px;
+}
+
+.interact .younger-than-18-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 908px;
+  width: auto;
+}
+
+.interact .ellipse-24-1Nh36b {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 13.5px;
+  height: 27px;
+  left: 98px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 916px;
+  width: 27px;
+}
+
+.interact .line-2-1Nh36b {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 958px;
+}
+
+.interact .exploration-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  width: auto;
+}
+
+.interact .absorb-information-1Nh36b {
+  background-color: transparent;
+  height: auto;
+  left: 636px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 28px;
+  width: auto;
+}
+
+.interact .frame-29-1Nh36b {
+  background-color: #a49c9c;
+  height: 385px;
+  left: 601px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 207px;
+  width: 308px;
+}
+
+.interact .line-3-4u0fk9 {
+  background-color: transparent;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 256px;
+  width: 306px;
+}
+
+.interact .personal-info-4u0fk9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jost);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  width: auto;
+}
+
+.interact .my-order-4u0fk9 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jost);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 288px;
+  width: auto;
+}
+
+.interact .line-4-4u0fk9 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 306px;
+}
+
+.interact .ellipse-25-4u0fk9 {
+  background-color: #d9d9d9;
+  border-radius: 48.5px;
+  height: 97px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27px;
+  width: 97px;
+}
+
+.interact .icon-4u0fk9 {
+  background-color: transparent;
+  height: auto;
+  left: 129px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: auto;
+}
+
+.interact .place1 {
+  background-color: transparent;
+  height: auto;
+  left: 126px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  width: auto;
+}

@@ -1,0 +1,368 @@
+/* screen - service */
+
+.service {
+  background-color: var(--ecru-white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.service .title-R3SQrl {
+  background-color: transparent;
+  height: auto;
+  left: 549px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  width: auto;
+}
+
+.service .frame-15-R3SQrl {
+  background-color: var(--medium-carmine-2);
+  border: 2px solid;
+  border-color: var(--black);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 559px;
+  left: 152px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 358px;
+  width: 1132px;
+}
+
+.service .competitionfor-club-1oQebK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-judson);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 441px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.service .frame-16-1oQebK {
+  background-color: var(--white);
+  height: 180px;
+  left: 46px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 169px;
+  width: 326px;
+}
+
+.service .image-P23AVw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jsmath-cmr10-cmr10);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 114px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.service .frame-6-P23AVw {
+  background-color: var(--pumice);
+  height: 180px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.service .image-4-4m6cau {
+  background-color: transparent;
+  height: 180px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 326px;
+}
+
+.service .descripiton-price-time-1oQebK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-jsmath-cmr10-cmr10);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 441px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: 304px;
+}
+
+.service .book-a-field-1oQebK {
+  align-items: flex-start;
+  background-color: var(--di-serria);
+  border-radius: 88px;
+  display: flex;
+  gap: 10px;
+  height: 44px;
+  left: 613px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 9px 25px 7px;
+  position: absolute;
+  top: 399px;
+  width: 194px;
+}
+
+.service .book-a-field-whxDHX {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-jua);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-bottom: -1.00px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 204.99998474121094px;
+}
+
+.service .frame-13-R3SQrl {
+  background-color: var(--medium-carmine-2);
+  border: 2px solid;
+  border-color: var(--black);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 152px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 264px;
+  width: 1132px;
+}
+
+.service .drop-in-mzeqQK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-judson);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 515px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.service .frame-14-R3SQrl {
+  background-color: var(--medium-carmine-2);
+  border: 2px solid;
+  border-color: var(--black);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 153px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 311px;
+  width: 1132px;
+}
+
+.service .basketball-course-rlYaj1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-judson);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 437px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  white-space: nowrap;
+  width: 259px;
+}
+
+.service .bar-R3SQrl {
+  background-color: var(--medium-carmine);
+  height: 100px;
+  left: -2px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.service .union-logo-1-Nlq1il {
+  background-color: transparent;
+  height: 100px;
+  left: 2px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 252px;
+}
+
+.service .tabs-R3SQrl {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 77px;
+  height: auto;
+  left: 485px;
+  position: absolute;
+  top: 26px;
+  width: fit-content;
+}
+
+.service .home-cqTNly {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.service .home-cqTNly:hover {
+  color: #ff6b00
+}
+
+.service .service-cqTNly {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.service .service-cqTNly:hover {
+  color: #FF6B00
+}
+
+.service .empolyee-cqTNly {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.service .empolyee-cqTNly:hover {
+  color: #FF6B00
+}
+
+.service .contact-us-cqTNly {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.service .contact-us-cqTNly:hover {
+  color: #FF6B00
+}
+
+.service .book-a-field-cqTNly {
+  background-color: var(--di-serria);
+  border-radius: 88px;
+  height: 44.00000762939453px;
+  min-width: 179.00003051757812px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.service .book-now-fxwtXn {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.service .book-now-fxwtXn:hover {
+}

@@ -1,0 +1,333 @@
+/* screen - book */
+
+.book {
+  background-color: var(--ecru-white);
+  border: 1px solid;
+  border-color: var(--black);
+  margin: 0px;
+  min-height: 1024px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.book .images-1-rfMrWf {
+  background-color: transparent;
+  height: 565px;
+  left: 960px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 480px;
+}
+
+.book .image-7-rfMrWf {
+  background-color: transparent;
+  height: 565px;
+  left: 480px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 480px;
+}
+
+.book .x1000_f_83273170_ho-d-rfMrWf {
+  background-color: transparent;
+  height: 565px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 459px;
+  width: 480px;
+}
+
+.book .book-a-field-rfMrWf {
+  cursor: pointer;
+  height: 39px;
+  left: 1028px;
+  position: absolute;
+  top: 491px;
+  width: 335px;
+}
+
+.book .book-a-field-Q7TjWz {
+  cursor: pointer;
+  height: 39px;
+  left: 616px;
+  position: absolute;
+  top: 491px;
+  width: 240px;
+}
+
+.book .book-a-field-029HhS {
+  cursor: pointer;
+  height: 43px;
+  left: 119px;
+  position: absolute;
+  top: 487px;
+  width: 233px;
+}
+
+.book .bar-rfMrWf {
+  background-color: var(--medium-carmine);
+  height: 100px;
+  left: 3px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 1440px;
+}
+
+.book .logo-rfMrWf {
+  background-color: var(--don-juan);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 100px;
+  left: 3px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 2px;
+  width: 254px;
+}
+
+.book .union-logo-1-2OrFG6 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 254px;
+}
+
+.book .title-rfMrWf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 130px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 487px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.book .title-rfMrWf:hover {
+  color: #ff0000
+}
+
+.book .book-competition-rfMrWf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1038px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 487px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.book .book-competition-rfMrWf:hover {
+  color: #eb0000
+}
+
+.book .ellipse-26-rfMrWf {
+  background-color: var(--jordy-blue);
+  border-radius: 29.5px;
+  height: 59px;
+  left: 622px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 179px;
+  width: 59px;
+}
+
+.book .step1-rfMrWf {
+  background-color: transparent;
+  height: auto;
+  left: 698px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  width: auto;
+}
+
+.book .tabs-rfMrWf {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 77px;
+  height: auto;
+  left: 485px;
+  position: absolute;
+  top: 26px;
+  width: fit-content;
+}
+
+.book .home-DeUlYx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book .home-DeUlYx:hover {
+  color: #ff6b00
+}
+
+.book .service-DeUlYx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book .service-DeUlYx:hover {
+  color: #FF6B00
+}
+
+.book .empolyee-DeUlYx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book .empolyee-DeUlYx:hover {
+  color: #FF6B00
+}
+
+.book .contact-us-DeUlYx {
+  background-color: transparent;
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book .contact-us-DeUlYx:hover {
+  color: #FF6B00
+}
+
+.book .book-a-field-DeUlYx {
+  height: 44.00000762939453px;
+  min-width: 179.00003051757812px;
+  position: relative;
+}
+
+.book .book-now-D1mZcv {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  transition: all 0.2s ease;
+  width: 205px;
+}
+
+.book .book-now-D1mZcv:hover {
+}
+
+.book .line-5-rfMrWf {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 456px;
+  width: 1440px;
+}
+
+.book .line-6-rfMrWf {
+  background-color: transparent;
+  height: 565px;
+  left: 477px;
+  position: absolute;
+  top: 459px;
+  width: 3px;
+}
+
+.book .line-7-rfMrWf {
+  background-color: transparent;
+  height: 565px;
+  left: 957px;
+  position: absolute;
+  top: 459px;
+  width: 3px;
+}
+
+.book .join-course-rfMrWf {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 627px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 487px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+
+.book .join-course-rfMrWf:hover {
+  color: #ff0000
+}

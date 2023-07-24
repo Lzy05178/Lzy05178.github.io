@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/confirm.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #f4f3e6">
+    <input type="hidden" id="anPageName" name="page" value="confirm" />
+    <form class="confirm screen" name="form37" action="form37" method="post">
+      <div class="bar-bY6aPg">
+        <div class="logo-EJS04l">
+          <img class="union-logo-1-vExH1p" src="img/union-logo-1@2x.png" alt="UNION-Logo 1" />
+        </div>
+      </div>
+      <a href="homepage.html" class="book-a-field-bY6aPg book-a-field"><div class="done-fweCDu inter-bold-red-30px">Done!</div></a>
+      <h1 class="title-bY6aPg jua-normal-black-40px">Confirmed</h1>
+      <div class="frame-19-bY6aPg frame-19">
+        <div class="chosen-court-AhQM9h jost-normal-black-24px">chosen court</div>
+      </div>
+      <div class="frame-21-bY6aPg">
+        <div class="frame-19-pcAtbP frame-19"></div>
+        <div class="cost-pcAtbP jost-normal-black-24px">cost</div>
+      </div>
+      <div class="frame-19-Xxervk frame-19"><div class="phone-2LHa07 jost-normal-black-24px">phone</div></div>
+      <div class="frame-23-bY6aPg"><div class="name-5VTlgU jost-normal-black-24px">name</div></div>
+      <div class="frame-20-bY6aPg">
+        <div class="frame-19-i3LUya frame-19"></div>
+        <div class="email-i3LUya jost-normal-black-24px">email</div>
+      </div>
+      <div class="frame-22-bY6aPg"><div class="time-NJT2yg jost-normal-black-24px">time</div></div>
+      <div class="frame-26-bY6aPg"><div class="date-0HcvQF jost-normal-black-24px">date</div></div>
+      <div class="ellipse-28-bY6aPg"></div>
+      <div class="step1-bY6aPg jua-normal-apple-40px">step1</div>
+      <img class="x5097977-1-bY6aPg" src="img/5097977-1@2x.png" alt="5097977 1" />
+      <img class="arrow-1-bY6aPg" src="img/arrow-1@2x.png" alt="Arrow 1" />
+      <div class="ellipse-27-bY6aPg"></div>
+      <div class="competed-bY6aPg jua-normal-jordy-blue-40px">Competed</div>
+      <div class="ellipse-29-bY6aPg"></div>
+      <div class="step2-bY6aPg jua-normal-apple-40px">step2</div>
+      <img class="x5097977-2-bY6aPg" src="img/5097977-1@2x.png" alt="5097977 2" />
+      <img class="arrow-2-bY6aPg" src="img/arrow-1@2x.png" alt="Arrow 2" />
+      <div class="tabs-bY6aPg">
+        <a href="homepage.html"
+          ><div class="home-PRIQH7 smart-layers-pointers inter-normal-black-25px">Home</div> </a
+        ><a href="service.html"
+          ><div class="service-PRIQH7 smart-layers-pointers inter-normal-black-25px">Service</div> </a
+        ><a href="empoyee.html"
+          ><div class="empolyee-PRIQH7 smart-layers-pointers inter-normal-black-25px">Empolyee</div> </a
+        ><a href="contact.html"
+          ><div class="contact-us-PRIQH7 smart-layers-pointers inter-normal-black-25px">Contact Us</div>
+        </a>
+        <div class="book-a-field-PRIQH7 book-a-field">
+          <a href="book.html"
+            ><div class="book-now-oHihPE smart-layers-pointers inter-bold-red-30px">Book Now</div>
+          </a>
+        </div>
+      </div>
+    </form>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

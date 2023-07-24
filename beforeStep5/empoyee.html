@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/empoyee.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #ffffff">
+    <input type="hidden" id="anPageName" name="page" value="empoyee" />
+    <form class="empoyee screen" name="form10" action="form10" method="post">
+      <div class="supervisors-background-sjyEjj">
+        <img class="image-2-jhbSxx image-2" src="img/image-1@2x.png" alt="image 2" />
+        <h1 class="bart-simpson-owner-jhbSxx inter-normal-black-40px">
+          Bart Simpson<br />&nbsp;&nbsp;&nbsp;&nbsp;(Owner)
+        </h1>
+        <div class="garfield-manager-jhbSxx inter-normal-black-40px">Garfield<br />(Manager)</div>
+        <img class="garfield-1-jhbSxx" src="img/garfield-1@2x.png" alt="Garfield 1" />
+        <div class="supervisors-jhbSxx inter-normal-black-40px">supervisors:</div>
+        <img class="image-3-jhbSxx image-3" src="img/image-1@2x.png" alt="image 3" />
+        <div class="kenny-mc-cormick-manager-jhbSxx inter-normal-black-40px">Kenny McCormick<br />(Manager)</div>
+        <img class="kenny-mc-cormick-1-jhbSxx" src="img/kenny-mccormick-1@2x.png" alt="Kenny-McCormick 1" />
+        <img class="image-1-jhbSxx image-1" src="img/image-1@2x.png" alt="image 1" />
+      </div>
+      <div class="coach-background-sjyEjj">
+        <img class="image-1-OOPLp5 image-1" src="img/image-1@2x.png" alt="image 1" />
+        <img class="image-2-OOPLp5 image-2" src="img/image-1@2x.png" alt="image 2" />
+        <div class="tom-cat-6-year-coach-OOPLp5 inter-normal-black-40px">Tom Cat<br />(6-year coach)</div>
+        <img class="jerry-mouse-1-OOPLp5" src="img/jerry-mouse-1@2x.png" alt="Jerry-Mouse 1" />
+        <div class="jerry-mouse-basketball-association-OOPLp5 inter-normal-black-40px">
+          Jerry Mouse<br />(basketball association)
+        </div>
+        <div class="coach-OOPLp5 inter-normal-black-40px">coach:</div>
+        <img class="image-3-OOPLp5 image-3" src="img/image-1@2x.png" alt="image 3" />
+        <div class="patrick-star-professional-athlete-OOPLp5 inter-normal-black-40px">
+          Patrick Star<br />(professional athlete)
+        </div>
+        <img class="tom-cat-1-OOPLp5" src="img/tom-cat-1@2x.png" alt="Tom-Cat 1" />
+        <img class="patrick-star-1-OOPLp5" src="img/patrick-star-1@2x.png" alt="Patrick-Star 1" />
+      </div>
+      <div class="bar-sjyEjj">
+        <div class="logo-igKJG6 logo"><div class="logoname-mPyPTw inter-normal-black-40px">logo&amp;name</div></div>
+      </div>
+      <div class="logo-sjyEjj logo"></div>
+      <div class="tabs-sjyEjj">
+        <a href="homepage.html"
+          ><div class="home-pfx04K smart-layers-pointers inter-normal-black-25px">Home</div> </a
+        ><a href="service.html"
+          ><div class="service-pfx04K smart-layers-pointers inter-normal-black-25px">Service</div> </a
+        ><a href="empoyee.html"
+          ><div class="empolyee-pfx04K smart-layers-pointers inter-normal-black-25px">Empolyee</div> </a
+        ><a href="contact.html"
+          ><div class="contact-us-pfx04K smart-layers-pointers inter-normal-black-25px">Contact Us</div>
+        </a>
+        <div class="book-a-field-pfx04K">
+          <a href="book.html"
+            ><div class="book-now-JDcxfx smart-layers-pointers inter-bold-red-30px">Book Now</div>
+          </a>
+        </div>
+      </div>
+      <img class="union-logo-1-sjyEjj" src="img/union-logo-1@2x.png" alt="UNION-Logo 1" />
+    </form>
+    <script>
+      /* Copyright (c) 2016 Tobias Buschor https://goo.gl/gl0mbf | MIT License https://goo.gl/HgajeK */
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>
